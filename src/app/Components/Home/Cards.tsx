@@ -1,6 +1,7 @@
 "use client";
 
 import Carousel from "@/app/Components/ui/Carousel";
+
 export default function CarouselDemo() {
   const slideData = [
     {
@@ -27,6 +28,7 @@ export default function CarouselDemo() {
   return (
     <div className="relative overflow-hidden w-full h-full py-20">
       <Carousel slides={slideData} />
+     
     </div>
   );
 }

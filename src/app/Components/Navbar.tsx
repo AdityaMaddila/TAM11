@@ -25,11 +25,11 @@ const Navbar: React.FC<NavbarProps> = ({ hideRegisterButton }) => {
   const isActive = (path: string) => currentPath === path;
 
   return (
-    <nav className="bg-black border-gray-200 bg-opacity-30 backdrop-filter backdrop-blur-lg" style={{ fontFamily: 'Nasalization, sans-serif' }}>
+    <nav className="bg-black border-white bg-opacity-30 backdrop-filter backdrop-blur-lg sticky" style={{ fontFamily: 'Nasalization, sans-serif' }}>
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto px-4 py-1">
         <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
-          <img src="https://i.ibb.co/Pj0LwfD/Eagle-TAM.png" width={200} height={75} alt="" />
-          <h1>TAM Logo</h1>
+          <img src="https://i.ibb.co/RB799d5/TAM-Logo.png" width={200} height={75} alt="" />
+          
         </a>
         <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
           {!hideRegisterButton && (
