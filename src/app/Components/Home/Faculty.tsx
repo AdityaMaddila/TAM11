@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { motion } from 'framer-motion'
-import { StarsBackground } from "@/app/Components/ui/stars-background";
+
 import Image from "next/image";
 type Direction = "left" | "right" | "up" | "down" | "none";
 type TransitionType = "tween" | "spring" | "keyframes"; // Modify based on your needs
@@ -87,20 +87,26 @@ export default function StickyScrollRevealDemo() {
   return (
     <div className="p-10">
       <motion.div>
-      <h1 className='bg-clip-text text-transparent bg-gradient-to-b from-yellow-50 to-yellow-400 bg-opacity-50 font-bold md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]'>Group Director</h1>
+      <h1 className='bg-clip-text text-transparent bg-gradient-to-b from-yellow-50 to-yellow-400 bg-opacity-50 font-bold md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-center'>Group Director</h1>
+      <div className=" flex justify-center items-center">
+      <img src="https://ik.imagekit.io/o3b14qow3gqi/Crew/princi_O8p_H9fUo_tS.jpg?updatedAt=1647430271746" alt="Principal" width="600px" className='rounded'/>
 
-        <img src="https://ik.imagekit.io/o3b14qow3gqi/Crew/princi_O8p_H9fUo_tS.jpg?updatedAt=1647430271746" alt="Principal" width="600px" className='rounded-lg'/>
-        <h3 className='sm:text-[18px] text-[14px] text-white tracking-wider font-bold'>| Board Of <span className='text-[#915eff]' >Director</span></h3>
-        <h2 className='text-white font-bold md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]'>Dr.P.Santosh Kumar Patra</h2>
-        <p className= "sm:text-[18px] text-[14px] text-white tracking-wider">Dr.P.Santosh Kumar Patra , Principal of St.Martin's Engineering College is holding B.E. in Computer Science & Engineering, MTech in Computer Science & Engineering and Ph.D in Computer Science & Engineering degrees. His area of interests are Airtificial Intelligence,Software Engineering , Data mining and warehousing & Wireless Networks.</p>
+      </div>
+
+        <h3 className='sm:text-[18px] text-[14px] text-white tracking-wider font-bold text-center'> Board Of <span className='text-[#915eff]' >Director</span></h3>
+        <h2 className='text-white font-bold md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-center'>Dr.P.Santosh Kumar Patra</h2>
+        <p className= "sm:text-[18px] text-[14px] text-white tracking-wider ">Dr.P.Santosh Kumar Patra , Principal of St.Martin's Engineering College is holding B.E. in Computer Science & Engineering, MTech in Computer Science & Engineering and Ph.D in Computer Science & Engineering degrees. His area of interests are Airtificial Intelligence,Software Engineering , Data mining and warehousing & Wireless Networks.</p>
         <br />
         <br />
-        <h1 className='bg-clip-text text-transparent bg-gradient-to-b from-yellow-50 to-yellow-400 bg-opacity-50 font-bold md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]'>Faculty Advisor</h1>
+        <h1 className='bg-clip-text text-transparent bg-gradient-to-b from-yellow-50 to-yellow-400 bg-opacity-50 font-bold md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-center'>Faculty Advisor</h1>
 
-        <img src="https://ik.imagekit.io/o3b14qow3gqi/Crew/princi_O8p_H9fUo_tS.jpg?updatedAt=1647430271746" alt="Principal" width="600px" className='rounded-lg'/>
-        <h3 className='sm:text-[18px] text-[14px] text-white tracking-wider font-bold'>| Board Of <span className='text-[#915eff]' >Director</span></h3>
-        <h2 className='text-white font-bold md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]'>Dr.P.Santosh Kumar Patra</h2>
-        <p className= "sm:text-[18px] text-[14px] text-white tracking-wider">Dr.P.Santosh Kumar Patra , Principal of St.Martin's Engineering College is holding B.E. in Computer Science & Engineering, MTech in Computer Science & Engineering and Ph.D in Computer Science & Engineering degrees. His area of interests are Airtificial Intelligence,Software Engineering , Data mining and warehousing & Wireless Networks.</p>
+        <div className=" flex justify-center items-center">
+      <img src="https://ik.imagekit.io/o3b14qow3gqi/Crew/princi_O8p_H9fUo_tS.jpg?updatedAt=1647430271746" alt="Principal" width="600px" className='rounded'/>
+
+      </div>
+              <h3 className='sm:text-[18px] text-[14px] text-white tracking-wider font-bold text-center'>Faculty <span className='text-[#915eff]' >Advisor</span></h3>
+        <h2 className='text-white font-bold md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-center'>E. Soumya</h2>
+        <p className= "sm:text-[18px] text-[14px] text-white tracking-wider">E. Soumya , Faculty Advisor of TAM is holding B.E. in Computer Science & Engineering, MTech in Computer Science & Engineering and Ph.D in Computer Science & Engineering degrees. His area of interests are Airtificial Intelligence,Software Engineering , Data mining and warehousing & Wireless Networks.</p>
         
       </motion.div>
       

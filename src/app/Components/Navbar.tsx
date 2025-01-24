@@ -33,12 +33,14 @@ const Navbar: React.FC<NavbarProps> = ({ hideRegisterButton }) => {
         </a>
         <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
           {!hideRegisterButton && (
+            
             <button
               type="button"
               onClick={handleRegisterClick}
-              className="text-white bg-yellow-700 hover:bg-yellow-400 focus:outline-none font-medium rounded-full text-sm px-4 py-2 text-center dark:bg-orange-600 dark:hover:bg-yellow-700"
+              className="text-white bg-gradient-to-r from-yellow-400 to-amber-500 focus:outline-none font-medium rounded-full text-sm px-4 py-2 text-center dark:hover:bg-yellow-300 dark:hover:bg-amber-500"
             >
               REGISTER
+              
             </button>
           )}
           <button
@@ -63,7 +65,7 @@ const Navbar: React.FC<NavbarProps> = ({ hideRegisterButton }) => {
               <a href="/event-timeline" className={`block py-2 px-3 md:p-0 md:px-2 ${isActive('/event-timeline') ? 'text-white bg-yellow-600 rounded-full' : 'text-white'} rounded-full hover:bg-gray-100 md:hover:bg-transparent md:hover:text-yellow-600`} aria-current={isActive('/event-timeline') ? "page" : undefined}>Events</a>
             </li>
             <li>
-              <a href="/members" className={`block py-2 px-3 md:p-0 md:px-2 ${isActive('/members') ? 'text-white bg-yellow-600 rounded-full' : 'text-white'} rounded-full hover:bg-gray-100 md:hover:bg-transparent md:hover:text-yellow-600`} aria-current={isActive('/members') ? "page" : undefined}>Team</a>
+              <a href="/members" className={`block py-2 px-3 md:p-0 md:px-2 ${isActive('/members') ? 'text-white bg-yellow-600 rounded-full' : 'text-white'}  rounded-full hover:bg-gray-100 md:hover:bg-transparent md:hover:text-yellow-600`} aria-current={isActive('/members') ? "page" : undefined}>Team</a>
             </li>
             <li>
               <a href="/gallery" className={`block py-2 px-3 md:p-0 md:px-2 ${isActive('/gallery') ? 'text-white bg-yellow-600 rounded-full' : 'text-white'} rounded-full hover:bg-gray-100 md:hover:bg-transparent md:hover:text-yellow-600`} aria-current={isActive('/gallery') ? "page" : undefined}>Gallery</a>

@@ -7,110 +7,104 @@ export default function AnimatedTestimonialsDemo() {
   const Executives = [
     {
       quote:
-        "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
-      name: "Sarah Chen",
-      designation: "Product Manager at TechFlow",
+        "Chief leads and oversees key strategies, making high-level decisions that align with the TAM’s goals. He guides team members and ensures smooth operations while fostering strong organizational culture. His focus is on shaping long-term vision and ensuring overall success. His role is crucial in driving efficiency and supporting leadership across departments.",
+      name: "Tagore Monish",
+      designation: "CHIEF",
       src: "https://i.ibb.co/D1qPjpx/Monish-TAM.webp",
     },
     {
       quote:
-        "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
-      name: "Michael Rodriguez",
-      designation: "CTO at InnovateSphere",
-      src: "https://i.ibb.co/GJxZPqv/Sipra-TAM.webp",
+        "Vice Chief supports the Chief by keeping an eye on day-to-day operations and helping to implement required targets. She steps in to lead when needed and help teams stay connected, ensuring alignment with TAM's vision. ",
+      name: "Sania",
+      designation: "Vice Chief",
+      src: "https://i.ibb.co/KDhbmzR/Sania-TAM.webp",
     },
     {
       quote:
-        "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
-      name: "Emily Watson",
-      designation: "Operations Director at CloudScale",
+        "Chief Advisor provides expert guidance and strategic counsel to senior leadership. He offer insights on key decisions, helping to shape long-term strategies and solve complex challenges. His role is to leverage experience and knowledge, ensuring TAM stays on track and adapts to changing landscapes.",
+      name: "Pranav Raj",
+      designation: "CHIEF ADVISOR",
       src: "https://i.ibb.co/YXS2Y57/Hrishi-TAM.webp",
     },
     {
       quote:
-        "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
-      name: "James Kim",
-      designation: "Engineering Lead at DataPro",
+        "Financial Advisor provides expert advice on managing financial resources, investments, and budgeting. He help guide decision-making by analyzing financial data and assessing risks. His role is crucial in helping the TAM and make informed financial choices to achieve growth and stability.",
+      name: "Aashrith Sarma",
+      designation: "FINANCIAL ADVISOR",
       src: "https://i.ibb.co/kmsCf2C/Sravan-TAM.webp",
     },
-    {
-      quote:
-        "The scalability and performance have been game-changing for our organization. Highly recommend to any growing business.",
-      name: "Lisa Thompson",
-      designation: "VP of Technology at FutureNet",
-      src: "https://i.ibb.co/wKhNKqP/Richitha-TAM.webp",
-    },
+    
   ];
   const Events = [
     {
       quote:
-        "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
-      name: "Sarah Chen",
-      designation: "Product Manager at TechFlow",
+        "Events Head is the creative mastermind behind an event. He plays a key role in coordinating with higher authorities to secure necessary permissions and approvals for events. From innovative themes to attention-grabbing details, he ensures that every element is thoughtfully crafted",
+      name: "S. Adithiya",
+      designation: "EVENTS HEAD",
       src: "https://i.ibb.co/BGdv2T1/Pavithra-TAM.webp",
     },
     {
       quote:
-        "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
-      name: "Michael Rodriguez",
-      designation: "CTO at InnovateSphere",
+        "Event members are a dynamic team responsible for bringing an organization’s events to life. They work collaboratively to handle various aspects. By actively engaging with higher authorities, event members help secure the necessary approvals, ensuring the event runs smoothly and meet the goals",
+      name: "Aabhash Sinha",
+      designation: "EVENTS MEMBER",
       src: "https://i.ibb.co/ZdmwpJ8/Nikita-TAM.webp",
     },
     {
       quote:
-        "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
-      name: "Emily Watson",
-      designation: "Operations Director at CloudScale",
+        "Event members are a dynamic team responsible for bringing an organization’s events to life. They work collaboratively to handle various aspects. By actively engaging with higher authorities, event members help secure the necessary approvals, ensuring the event runs smoothly and meet the goals",
+      name: "Darshini",
+      designation: "EVENTS MEMBER",
       src: "https://i.ibb.co/GVntFr4/Vaishnavi-TAM.webp",
     },
     {
       quote:
-        "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
-      name: "James Kim",
-      designation: "Engineering Lead at DataPro",
+        "Event members are a dynamic team responsible for bringing an organization’s events to life. They work collaboratively to handle various aspects. By actively engaging with higher authorities, event members help secure the necessary approvals, ensuring the event runs smoothly and meet the goals",
+      name: "Vaishnavi",
+      designation: "EVENTS MEMBER",
       src: "https://i.ibb.co/0jzCdbZ/Aabhash-TAM.webp",
     },
     {
       quote:
-        "The scalability and performance have been game-changing for our organization. Highly recommend to any growing business.",
-      name: "Lisa Thompson",
-      designation: "VP of Technology at FutureNet",
+        "Event members are a dynamic team responsible for bringing an organization’s events to life. They work collaboratively to handle various aspects. By actively engaging with higher authorities, event members help secure the necessary approvals, ensuring the event runs smoothly and meet the goals",
+      name: "Nikita",
+      designation: "EVENTS MEMBER",
       src: "https://i.ibb.co/sJkxDyr/Darshini-TAM.webp",
     },
   ];
   const Technical = [
     {
       quote:
-        "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
-      name: "Sarah Chen",
-      designation: "Product Manager at TechFlow",
+        "Technical Head is the driving force behind its tech vision and execution. He lead innovation, ensuring that the technical team delivers cutting-edge solutions that support business goals. With a focus on both game of action and hands-on expertise, he bridge the gap between technology and management to create lasting impact.",
+      name: "Aditya Maddila",
+      designation: "TECHNICAL HEAD",
       src: "https://i.ibb.co/BGdv2T1/Pavithra-TAM.webp",
     },
     {
       quote:
-        "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
-      name: "Michael Rodriguez",
+        "Technical members ace in various technologies and play a decisive role in building, maintaining, and optimizing systems, tools, and solutions. They collaborate with their heads to solve complex problems, implement new technologies, and ensure smooth technical operations. ",
+      name: "Vineet Pandey",
       designation: "CTO at InnovateSphere",
       src: "https://i.ibb.co/ZdmwpJ8/Nikita-TAM.webp",
     },
     {
       quote:
-        "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
-      name: "Emily Watson",
+        "Technical members ace in various technologies and play a decisive role in building, maintaining, and optimizing systems, tools, and solutions. They collaborate with their heads to solve complex problems, implement new technologies, and ensure smooth technical operations. ",
+      name: "Koushik",
       designation: "Operations Director at CloudScale",
       src: "https://i.ibb.co/GVntFr4/Vaishnavi-TAM.webp",
     },
     {
       quote:
-        "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
-      name: "James Kim",
+        "Technical members ace in various technologies and play a decisive role in building, maintaining, and optimizing systems, tools, and solutions. They collaborate with their heads to solve complex problems, implement new technologies, and ensure smooth technical operations. ",
+      name: "Srihari",
       designation: "Engineering Lead at DataPro",
       src: "https://i.ibb.co/0jzCdbZ/Aabhash-TAM.webp",
     },
     {
       quote:
-        "The scalability and performance have been game-changing for our organization. Highly recommend to any growing business.",
-      name: "Lisa Thompson",
+        "Technical members ace in various technologies and play a decisive role in building, maintaining, and optimizing systems, tools, and solutions. They collaborate with their heads to solve complex problems, implement new technologies, and ensure smooth technical operations. ",
+      name: "Somiya",
       designation: "VP of Technology at FutureNet",
       src: "https://i.ibb.co/sJkxDyr/Darshini-TAM.webp",
     },
@@ -118,187 +112,161 @@ export default function AnimatedTestimonialsDemo() {
   const Marketing = [
     {
       quote:
-        "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
-      name: "Sarah Chen",
-      designation: "Product Manager at TechFlow",
-      src: "https://i.ibb.co/BGdv2T1/Pavithra-TAM.webp",
+        "Marketing Head is responsible for defining and executing the marketing plan. She lead a team in developing campaigns, building awareness, and driving student engagement. With a focus on market trends, she ensure that marketing efforts align with essential objectives to boost growth.",
+      name: "Rolla Ankita",
+      designation: "MARKETING HEAD",
+      src: "https://i.ibb.co/M1JH6jt/Ankita-TAM.webp",
     },
     {
       quote:
-        "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
-      name: "Michael Rodriguez",
-      designation: "CTO at InnovateSphere",
+        "Marketing members are creative who contribute to developing and executing marketing campaigns. They work across various channels—such as digital, social media and content,—to promote events and engage with the students. Their collaborative efforts help build awareness, attract students, and support overall marketing goals.",
+      name: "Richitha",
+      designation: "MARKETING MEMBERS",
       src: "https://i.ibb.co/ZdmwpJ8/Nikita-TAM.webp",
     },
     {
       quote:
-        "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
-      name: "Emily Watson",
-      designation: "Operations Director at CloudScale",
+        "Marketing members are creative who contribute to developing and executing marketing campaigns. They work across various channels—such as digital, social media and content,—to promote events and engage with the students. Their collaborative efforts help build awareness, attract students, and support overall marketing goals.",
+      name: "Hrishikesh Rathore",
+      designation: "MARKETING MEMBERS",
       src: "https://i.ibb.co/GVntFr4/Vaishnavi-TAM.webp",
     },
     {
       quote:
-        "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
-      name: "James Kim",
-      designation: "Engineering Lead at DataPro",
+      "Marketing members are creative who contribute to developing and executing marketing campaigns. They work across various channels—such as digital, social media and content,—to promote events and engage with the students. Their collaborative efforts help build awareness, attract students, and support overall marketing goals.",
+      name: "Dharani",
+      designation: "MARKETING MEMBERS",
       src: "https://i.ibb.co/0jzCdbZ/Aabhash-TAM.webp",
     },
     {
       quote:
-        "The scalability and performance have been game-changing for our organization. Highly recommend to any growing business.",
-      name: "Lisa Thompson",
-      designation: "VP of Technology at FutureNet",
+      "Marketing members are creative who contribute to developing and executing marketing campaigns. They work across various channels—such as digital, social media and content,—to promote events and engage with the students. Their collaborative efforts help build awareness, attract students, and support overall marketing goals.",
+      name: "Ana Grace",
+      designation: "MARKETING MEMBERS",
       src: "https://i.ibb.co/sJkxDyr/Darshini-TAM.webp",
     },
   ];
   const PRSales = [
     {
       quote:
-        "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
-      name: "Sarah Chen",
-      designation: "Product Manager at TechFlow",
+        "PR and Sales Head is responsible for shaping and driving public relations and sales strategies. He ensures positive media coverage and building strong relationships. On the sales front, he leads the team in developing and executing strategies to drive revenue. He also secures and manages sponsorships for events and initiatives.",
+      name: "Suraj Ratan",
+      designation: "PR & SALES HEAD",
       src: "https://i.ibb.co/s3d9fnc/Daksh-TAM.webp",
     },
     {
       quote:
-        "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
-      name: "Michael Rodriguez",
-      designation: "CTO at InnovateSphere",
+        "They identify potential sponsors, negotiate partnerships, and ensure that sponsorships align with TAM’s values and goals. They plan publicity campaigns and respond to inquiries. They also make sure to drive sales.",
+      name: "Pranav Boyana",
+      designation: "PR & SALES MEMBER",
       src: "https://i.ibb.co/bNkQsSr/Saideep-TAM.webp",
     },
     {
       quote:
-        "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
-      name: "Emily Watson",
-      designation: "Operations Director at CloudScale",
-      src: "https://i.ibb.co/GVntFr4/Vaishnavi-TAM.webp",
+      "They identify potential sponsors, negotiate partnerships, and ensure that sponsorships align with TAM’s values and goals. They plan publicity campaigns and respond to inquiries. They also make sure to drive sales.",
+      name: "Sravan",
+      designation: "PR & SALES MEMBER",
+      src: "https://i.ibb.co/kmsCf2C/Sravan-TAM.webp",
     },
     {
       quote:
-        "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
-      name: "James Kim",
-      designation: "Engineering Lead at DataPro",
-      src: "https://i.ibb.co/0jzCdbZ/Aabhash-TAM.webp",
+      "They identify potential sponsors, negotiate partnerships, and ensure that sponsorships align with TAM’s values and goals. They plan publicity campaigns and respond to inquiries. They also make sure to drive sales.",
+      name: "Saideep",
+      designation: "PR & SALES MEMBER",
+      src: "https://i.ibb.co/bNkQsSr/Saideep-TAM.webp",
     },
     {
       quote:
-        "The scalability and performance have been game-changing for our organization. Highly recommend to any growing business.",
-      name: "Lisa Thompson",
-      designation: "VP of Technology at FutureNet",
+      "They identify potential sponsors, negotiate partnerships, and ensure that sponsorships align with TAM’s values and goals. They plan publicity campaigns and respond to inquiries. They also make sure to drive sales.",
+      name: "Daksh",
+      designation: "PR & SALES MEMBER",
       src: "https://i.ibb.co/sJkxDyr/Darshini-TAM.webp",
     },
   ];
   const StageCrew = [
     {
       quote:
-        "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
-      name: "Sarah Chen",
-      designation: "Product Manager at TechFlow",
+        "Stage Crew Head is responsible for overseeing all aspects of stage production and ensuring the smooth execution of live events. She works closely with event planners, directors, and technical teams to ensure that the stage is ready and functional according to the event's requirements. Her leadership ensures that all stage-related elements are executed with precision and professionalism, contributing to the overall success of the event.",
+      name: "Veda Reddy",
+      designation: "STAGE CREW HEAD",
       src: "https://i.ibb.co/SmSJY4p/Sanketh-TAM.webp",
     },
     {
       quote:
-        "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
-      name: "Michael Rodriguez",
+        "They manage a team of stagehands and technical crew, coordinating the setup, operation, and breakdown of stage equipment, lighting, sound, and props. They also troubleshoot any technical issues, ensuring everything runs seamlessly during the performance or event.",
+      name: "Sanketh Reddy",
       designation: "CTO at InnovateSphere",
       src: "https://i.ibb.co/ZdmwpJ8/Nikita-TAM.webp",
     },
     {
       quote:
-        "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
-      name: "Emily Watson",
+      "They manage a team of stagehands and technical crew, coordinating the setup, operation, and breakdown of stage equipment, lighting, sound, and props. They also troubleshoot any technical issues, ensuring everything runs seamlessly during the performance or event.",
+      name: "Jaswitha Reddy",
       designation: "Operations Director at CloudScale",
       src: "https://i.ibb.co/GVntFr4/Vaishnavi-TAM.webp",
     },
-    {
-      quote:
-        "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
-      name: "James Kim",
-      designation: "Engineering Lead at DataPro",
-      src: "https://i.ibb.co/0jzCdbZ/Aabhash-TAM.webp",
-    },
-    {
-      quote:
-        "The scalability and performance have been game-changing for our organization. Highly recommend to any growing business.",
-      name: "Lisa Thompson",
-      designation: "VP of Technology at FutureNet",
-      src: "https://i.ibb.co/sJkxDyr/Darshini-TAM.webp",
-    },
+    
   ];
   const Media = [
     {
       quote:
-        "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
-      name: "Sarah Chen",
-      designation: "Product Manager at TechFlow",
+        "Media Head is responsible for overseeing all media-related activities, including the creation of visual content such as VFX, photography, and editing, to enhance the brand presence.He lead the media team in developing creative concepts and producing high-quality visuals. His leadership drives impactful media campaigns that boost brand visibility and engagement.",
+      name: "Rishik Naidu",
+      designation: "MEDIA HEAD",
       src: "https://i.ibb.co/BGdv2T1/Pavithra-TAM.webp",
     },
     {
       quote:
-        "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
-      name: "Michael Rodriguez",
-      designation: "CTO at InnovateSphere",
+        " Media members work closely with other departments to align visuals with messaging and marketing strategies. The Media members ensure that all visual elements—from promotional videos to event coverage—are professionally executed, edited, and optimized for various platforms.",
+      name: "Sai Kiran",
+      designation: "MEDIA MEMBER",
       src: "https://i.ibb.co/ZdmwpJ8/Nikita-TAM.webp",
     },
     {
       quote:
-        "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
-      name: "Emily Watson",
-      designation: "Operations Director at CloudScale",
+      " Media members work closely with other departments to align visuals with messaging and marketing strategies. The Media members ensure that all visual elements—from promotional videos to event coverage—are professionally executed, edited, and optimized for various platforms.",
+      name: "Deekshith",
+      designation: "MEDIA MEMBER",
       src: "https://i.ibb.co/GVntFr4/Vaishnavi-TAM.webp",
     },
     {
       quote:
-        "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
-      name: "James Kim",
-      designation: "Engineering Lead at DataPro",
+      " Media members work closely with other departments to align visuals with messaging and marketing strategies. The Media members ensure that all visual elements—from promotional videos to event coverage—are professionally executed, edited, and optimized for various platforms.",
+      name: "Sai Vardhan",
+      designation: "MEDIA MEMBER",
       src: "https://i.ibb.co/0jzCdbZ/Aabhash-TAM.webp",
     },
     {
       quote:
-        "The scalability and performance have been game-changing for our organization. Highly recommend to any growing business.",
-      name: "Lisa Thompson",
-      designation: "VP of Technology at FutureNet",
+      " Media members work closely with other departments to align visuals with messaging and marketing strategies. The Media members ensure that all visual elements—from promotional videos to event coverage—are professionally executed, edited, and optimized for various platforms.",
+      name: "Mahesh",
+      designation: "MEDIA MEMBER",
       src: "https://i.ibb.co/sJkxDyr/Darshini-TAM.webp",
     },
   ];
   const Theaters = [
     {
       quote:
-        "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
-      name: "Sarah Chen",
-      designation: "Product Manager at TechFlow",
+        "Theatres Head is responsible for adding energy, entertainment, and dramatic flair to an organization's events, transforming them into memorable experiences. She oversees the creative direction of theatrical elements, the Theatres Head ensures the event captivates the audience, leaving a lasting impact. Her ability to infuse creativity and theatrical expertise elevates events, making them both entertaining and visually stunning.",
+      name: "R. Pavithra",
+      designation: "THEATERS HEAD",
       src: "https://i.ibb.co/BGdv2T1/Pavithra-TAM.webp",
     },
     {
       quote:
-        "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
-      name: "Michael Rodriguez",
-      designation: "CTO at InnovateSphere",
-      src: "https://i.ibb.co/ZdmwpJ8/Nikita-TAM.webp",
+        " They collaborate with performers, directors, and other team members to enhance the overall event experience. Theatre members contribute their skills in acting, stage management, set design, and technical operation to create dynamic and engaging performances that captivate audiences. Their creativity and dedication help inject energy.",
+      name: "Sipra Maharana",
+      designation: "THEATERS MEMBER",
+      src: "https://images.unsplash.com/photo-1737366984875-fb81751f6655?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDd8dG93SlpGc2twR2d8fGVufDB8fHx8fA%3D%3D",
     },
     {
       quote:
-        "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
-      name: "Emily Watson",
-      designation: "Operations Director at CloudScale",
+      " They collaborate with performers, directors, and other team members to enhance the overall event experience. Theatre members contribute their skills in acting, stage management, set design, and technical operation to create dynamic and engaging performances that captivate audiences. Their creativity and dedication help inject energy.",
+      name: "Rajat Sharma",
+      designation: "THEATERS MEMBER",
       src: "https://i.ibb.co/GVntFr4/Vaishnavi-TAM.webp",
     },
-    {
-      quote:
-        "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
-      name: "James Kim",
-      designation: "Engineering Lead at DataPro",
-      src: "https://i.ibb.co/0jzCdbZ/Aabhash-TAM.webp",
-    },
-    {
-      quote:
-        "The scalability and performance have been game-changing for our organization. Highly recommend to any growing business.",
-      name: "Lisa Thompson",
-      designation: "VP of Technology at FutureNet",
-      src: "https://i.ibb.co/sJkxDyr/Darshini-TAM.webp",
-    },
+    
   ];
   return(
     <>
@@ -324,3 +292,15 @@ export default function AnimatedTestimonialsDemo() {
     
   ) ;
 }
+
+
+
+
+// THEATRES HEAD:
+
+// Theatres Head is responsible for adding energy, entertainment, and dramatic flair to an organization's events, transforming them into memorable experiences. She oversees the creative direction of theatrical elements, the Theatres Head ensures the event captivates the audience, leaving a lasting impact. Her ability to infuse creativity and theatrical expertise elevates events, making them both entertaining and visually stunning.
+
+// THEATRES MEMBERS:
+
+
+
