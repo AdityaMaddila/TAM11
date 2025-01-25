@@ -101,7 +101,7 @@ export default function StickyScrollRevealDemo() {
         <h1 className='bg-clip-text text-transparent bg-gradient-to-b from-yellow-50 to-yellow-400 bg-opacity-50 font-bold md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-center'>Faculty Advisor</h1>
 
         <div className=" flex justify-center items-center">
-      <img src="https://ik.imagekit.io/o3b14qow3gqi/Crew/princi_O8p_H9fUo_tS.jpg?updatedAt=1647430271746" alt="Principal" width="600px" className='rounded'/>
+      <img src="https://ik.imagekit.io/o3b14qow3gqi/Crew/sss_z642MOd4G.jpg?updatedAt=1647509408608" alt="Principal" width="600px" className='rounded'/>
 
       </div>
               <h3 className='sm:text-[18px] text-[14px] text-white tracking-wider font-bold text-center'>Faculty <span className='text-[#915eff]' >Advisor</span></h3>
