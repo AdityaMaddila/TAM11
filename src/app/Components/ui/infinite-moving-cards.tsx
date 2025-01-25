@@ -2,7 +2,6 @@
 
 import { cn } from "@/app/lib/utils";
 import React, { useEffect, useState } from "react";
-import { useRouter } from 'next/navigation';
 
 export const InfiniteMovingCards = ({
   items,
