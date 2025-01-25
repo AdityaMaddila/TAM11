@@ -1,7 +1,5 @@
 "use client"
 import { AnimatedTestimonials } from "@/app/Components/ui/animated-testimonials";
-import { Spotlight } from "../ui/Spotlight";
-import {motion} from "framer-motion"
 
 export default function AnimatedTestimonialsDemo() {
   const Executives = [

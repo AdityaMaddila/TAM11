@@ -1,5 +1,4 @@
 import React from 'react'
-import { cn } from "@/app/lib/utils";
 
 
 const Contact = () => {

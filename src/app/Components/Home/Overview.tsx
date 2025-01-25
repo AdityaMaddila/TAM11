@@ -25,7 +25,7 @@ export default function ImagesSliderDemo() {
         }}
         className="z-50 flex flex-col justify-center items-center"
       >
-        <motion.p className="font-bold text-xl md:text-4xl text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 py-4">
+        <motion.p className="font-bold text-xl md:text-4xl text-center bg-clip-text text-transparent bg-gradient-to-r from-neutral-50 to-neutral-400 py-4">
         TAM (Technology Awareness Month) is a student-run organization whose franchise has been functioning since the past 10 years at St.Martin’s Engineering College. As the name implies, it is a month filled with both technical and non-technical events. This month-long festival features a variety of engaging workshops, discussion shows, and interactive events designed to foster a deeper understanding of current technological trends and also provides the participants with valuable certificates and mementos.
         </motion.p>
         {/* <button className="px-4 py-2 backdrop-blur-sm border bg-emerald-300/10 border-emerald-500/20 text-white mx-auto text-center rounded-full relative mt-4">

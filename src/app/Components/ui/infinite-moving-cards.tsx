@@ -77,9 +77,7 @@ export const InfiniteMovingCards = ({
 
   const router = useRouter(); // Initialize the router
 
-  const handleRegisterClick = () => {
-    router.push('/event-timeline'); // Navigate to the events page
-  };
+ 
 
   return (
     <div
