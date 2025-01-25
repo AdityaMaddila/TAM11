@@ -75,7 +75,6 @@ export const InfiniteMovingCards = ({
     }
   };
 
-  const router = useRouter(); // Initialize the router
 
  
 
