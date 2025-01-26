@@ -18,7 +18,7 @@ const SkeletonOne = () => {
       </p>
       <p className="font-normal text-base text-white"></p>
       <p className="font-normal text-base my-4 max-w-lg text-neutral-200">
-      The inauguration ceremony marks the grand opening of TAM&apos;s monthlong journey, bringing together students and enthusiasts to celebrate
+      The inauguration ceremony marks the grand opening of TAM&apos;s month long journey, bringing together students and enthusiasts to celebrate
 the fusion of technology and entertainment. It sets the stage with
 inspiring speeches and vibrant energy, highlighting TAM&apos;s vision to
 explore and share the latest global trends.
