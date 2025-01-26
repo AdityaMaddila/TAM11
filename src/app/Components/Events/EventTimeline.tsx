@@ -208,9 +208,9 @@ const cards = [
   {
     description: "Entertainment Quiz",
     title: "ENTERTAINMENT QUIZ",
-    src: "https://assets.aceternity.com/demos/lana-del-rey.jpeg",
+    src: "https://i.ibb.co/bmPrcJs/entertainment-quiz.jpg",
     ctaText: "Register",
-    ctaLink: "https://ui.aceternity.com/templates",
+    ctaLink: "https://forms.gle/mxbFKRnR4ayEjfh4A",
     content: () => {
       return (
         <p>
@@ -226,9 +226,9 @@ enthusiast!
   {
     description: "Youth Parliament",
     title: "YOUTH PARLIAMENT",
-    src: "https://assets.aceternity.com/demos/babbu-maan.jpeg",
+    src: "https://i.ibb.co/vHDHf16/youthparliament.webp",
     ctaText: "Register",
-    ctaLink: "https://ui.aceternity.com/templates",
+    ctaLink: "https://forms.gle/XBo4FmybffXjjLy9A",
     content: () => {
       return (
         <p>
@@ -243,9 +243,9 @@ thinking skills.
   {
     description: "Podcast",
     title: "PODCAST",
-    src: "https://assets.aceternity.com/demos/babbu-maan.jpeg",
+    src: "https://i.ibb.co/R3GqDqq/podcast.png",
     ctaText: "Register",
-    ctaLink: "https://ui.aceternity.com/templates",
+    ctaLink: "https://forms.gle/bu2cVPonSiiKbVXF9",
     content: () => {
       return (
         <p>
@@ -261,9 +261,9 @@ and broaden perspectives
   {
     description: "Bootcamp",
     title: "DATA ANALYTICS BOOTCAMP",
-    src: "https://assets.aceternity.com/demos/metallica.jpeg",
+    src: "https://i.ibb.co/mcDbQpR/Data-analytics.jpg",
     ctaText: "Register",
-    ctaLink: "https://ui.aceternity.com/templates",
+    ctaLink: "https://forms.gle/8z2N73E4J1vibFGXA",
     content: () => {
       return (
         <p>
@@ -281,9 +281,9 @@ problems in the data analytics domain.
   {
     description: "Workshop",
     title: "NEXGEN FRONT END WORKSHOP",
-    src: "https://assets.aceternity.com/demos/metallica.jpeg",
+    src: "https://i.ibb.co/wsN3S74/Workshop.jpg",
     ctaText: "Register",
-    ctaLink: "https://ui.aceternity.com/templates",
+    ctaLink: "https://forms.gle/1KbV2nhcmdykuZHG6",
     content: () => {
       return (
         <p>
@@ -298,9 +298,9 @@ tools and techniques to craft seamless and engaging user experiences.
   {
     description: "Gaming Event",
     title: "ESPORTS SAGA",
-    src: "https://assets.aceternity.com/demos/metallica.jpeg",
+    src: "https://i.ibb.co/NLLtqtb/esports.jpg",
     ctaText: "Register",
-    ctaLink: "https://ui.aceternity.com/templates",
+    ctaLink: "https://forms.gle/RtS8Qs8UB2Ly7ZA36",
     content: () => {
       return (
         <p>
@@ -316,9 +316,9 @@ celebrating the exciting world of e-sports.
   {
     description: "IDEATHON",
     title: "IDEATHON",
-    src: "https://assets.aceternity.com/demos/metallica.jpeg",
+    src: "https://i.ibb.co/qDn3ZsM/ideathon4.jpg",
     ctaText: "Register",
-    ctaLink: "https://ui.aceternity.com/templates",
+    ctaLink: "https://forms.gle/FTQcCu4oB5KXBJw6A",
     content: () => {
       return (
         <p>

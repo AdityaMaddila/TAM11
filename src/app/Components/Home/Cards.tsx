@@ -7,22 +7,22 @@ export default function CarouselDemo() {
     {
       title: "Podcasts",
       button: "More Info",
-      src: "https://images.unsplash.com/photo-1494806812796-244fe51b774d?q=80&w=3534&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      src: "https://images.unsplash.com/photo-1556761175-129418cb2dfe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFBvZGNhc3R8ZW58MHx8MHx8fDA%3D",
     },
     {
       title: "TalkShows",
       button: "More Info",
-      src: "https://images.unsplash.com/photo-1518710843675-2540dd79065c?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      src: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U2VtaW5hcnxlbnwwfHwwfHx8MA%3D%3D",
     },
     {
       title: "Quizzes",
       button: "More Info",
-      src: "https://images.unsplash.com/photo-1590041794748-2d8eb73a571c?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      src: "https://media.istockphoto.com/id/1398690866/photo/the-inscription-quiz-on-wooden-blocks-other-blocks-with-question-marks-the-concept-of.webp?a=1&b=1&s=612x612&w=0&k=20&c=pujYXirwDyUuGinui81iMrYfb5oIU6xZckQYFJUjaQc=",
     },
     {
       title: "Workshops",
       button: "More Info",
-      src: "https://images.unsplash.com/photo-1679420437432-80cfbf88986c?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      src: "https://images.unsplash.com/photo-1576085898323-218337e3e43c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWVldHVwc3xlbnwwfHwwfHx8MA%3D%3D",
     },
   ];
   return (
