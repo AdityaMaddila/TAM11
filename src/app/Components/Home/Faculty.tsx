@@ -47,7 +47,7 @@ export default function StickyScrollRevealDemo() {
 
         <h3 className='sm:text-[18px] text-[14px] text-white tracking-wider font-bold text-center'> Group <span className='text-[#915eff]' >Director</span></h3>
         <h2 className='text-white font-bold md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-center'>Dr.P.Santosh Kumar Patra</h2>
-        <p className= "sm:text-[18px] text-[14px] text-white tracking-wider ">Dr.P.Santosh Kumar Patra , Group Director of St.Martin &apos; s Engineering College is holding B.E. in Computer Science & Engineering, MTech in Computer Science & Engineering and Ph.D in Computer Science & Engineering degrees. His area of interests are Airtificial Intelligence,Software Engineering , Data mining and warehousing & Wireless Networks.</p>
+        <p className= "sm:text-[18px] text-[14px] text-white tracking-wider ">Dr.P.Santosh Kumar Patra , Group Director of St.Martin &apos; s Engineering College is holding B.E. in Computer Science & Engineering, MTech in Computer Science & Engineering and Ph.D in Computer Science & Engineering degrees. His area of interests are Artificial Intelligence, Software Engineering , Data mining and warehousing & Wireless Networks.</p>
         <br />
         <br />
         <h1 className='bg-clip-text text-transparent bg-gradient-to-b from-yellow-50 to-yellow-400 bg-opacity-50 font-bold md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-center'>Faculty Advisor</h1>
