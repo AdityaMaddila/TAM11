@@ -14,7 +14,7 @@ const Contact = () => {
                 For More Details
             </p>
             <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-            We&apos;d love to hear from you! Whether you have questions, feedback, or need more information about our events, feel free to reach out to us.
+            If you have questions, about our events, feel free to reach out to us.
             </p>
         </div>
 
