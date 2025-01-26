@@ -13,7 +13,7 @@ const Footer = () => {
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tamv112024@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" className='h-7 w-7 hover:scale-125' />
     </a>
-    <a href="https://www.instagram.com/convergence_2k24/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.instagram.com/smec.tam?igsh=MXdyMHNubnV5dWNnMg==" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" className='h-7 w-7 hover:scale-125' />
     </a>
     <a href="https://forms.gle/AahAmRswoEduns928" target="_blank" rel="noopener noreferrer">
