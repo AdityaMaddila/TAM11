@@ -258,43 +258,7 @@ and broaden perspectives
     },
   },
 
-  {
-    description: "Bootcamp",
-    title: "DATA ANALYTICS BOOTCAMP",
-    src: "https://i.ibb.co/mcDbQpR/Data-analytics.jpg",
-    ctaText: "Register",
-    ctaLink: "https://forms.gle/8z2N73E4J1vibFGXA",
-    content: () => {
-      return (
-        <p>
-          This workshop provides an introduction to the fundamentals of data
-analytics, including data cleaning, analysis, and visualization.
-Participants will work with real-world datasets, learn to identify trends,
-and create impactful reports to support decision-making. The session is
-designed to equip attendees with practical skills for solving real-world
-problems in the data analytics domain.
-
-        </p>
-      );
-    },
-  },
-  {
-    description: "Workshop",
-    title: "NEXGEN FRONT END WORKSHOP",
-    src: "https://i.ibb.co/wsN3S74/Workshop.jpg",
-    ctaText: "Register",
-    ctaLink: "https://forms.gle/1KbV2nhcmdykuZHG6",
-    content: () => {
-      return (
-        <p>
-          The NexGen Front End Workshop is a UI/UX-focused session designed
-to equip participants with the skills to create intuitive and visually
-captivating user interfaces. This workshop covers industry-standard
-tools and techniques to craft seamless and engaging user experiences.
-        </p>
-      );
-    },
-  },
+ 
   {
     description: "Gaming Event",
     title: "ESPORTS SAGA",
@@ -328,6 +292,43 @@ Participants will form groups of three or four, created randomly, and
 work together to brainstorm a unique and innovative startup idea. The
 event promotes the exchange of ideas and perspectives, encouraging
 creativity and teamwork
+        </p>
+      );
+    },
+  },
+  {
+    description: "Bootcamp",
+    title: "DATA ANALYTICS",
+    src: "https://i.ibb.co/mcDbQpR/Data-analytics.jpg",
+    ctaText: "Register",
+    ctaLink: "https://forms.gle/8z2N73E4J1vibFGXA",
+    content: () => {
+      return (
+        <p>
+          This workshop provides an introduction to the fundamentals of data
+          analytics, including data cleaning, analysis, and visualization.
+          Participants will work with real-world datasets, learn to identify trends,
+          and create impactful reports to support decision-making. The session is
+          designed to equip attendees with practical skills for solving real-world
+          problems in the data analytics domain.
+
+        </p>
+      );
+    },
+  },
+  {
+    description: "Workshop",
+    title: "UI/UX WORKSHOP",
+    src: "https://i.ibb.co/wsN3S74/Workshop.jpg",
+    ctaText: "Register",
+    ctaLink: "https://forms.gle/1KbV2nhcmdykuZHG6",
+    content: () => {
+      return (
+        <p>
+          The NexGen Front End Workshop is a UI/UX-focused session designed
+          to equip participants with the skills to create intuitive and visually
+          captivating user interfaces. This workshop covers industry-standard
+          tools and techniques to craft seamless and engaging user experiences.
         </p>
       );
     },
