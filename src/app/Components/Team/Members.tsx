@@ -113,7 +113,7 @@ export default function AnimatedTestimonialsDemo() {
         "Marketing Head is responsible for defining and executing the marketing plan. She lead a team in developing campaigns, building awareness, and driving student engagement. With a focus on market trends, she ensure that marketing efforts align with essential objectives to boost growth.",
       name: "Rolla Ankita",
       designation: "MARKETING HEAD",
-      src: "https://i.ibb.co/LZcCCXm/Ankita.jpg",
+      src: "https://i.ibb.co/HHKKcGM/Ankita.jpg",
     },
     {
       quote:
@@ -127,7 +127,7 @@ export default function AnimatedTestimonialsDemo() {
         "Marketing members are creative who contribute to developing and executing marketing campaigns. They work across various channels—such as digital, social media and content,—to promote events and engage with the students. Their collaborative efforts help build awareness, attract students, and support overall marketing goals.",
       name: "Hrishikesh Rathore",
       designation: "MARKETING MEMBER",
-      src: "https://i.ibb.co/MMb1X1S/Hrishi.jpg",
+      src: "https://i.ibb.co/nBDDzLj/Rathore.jpg",
     },
     {
       quote:
@@ -157,7 +157,7 @@ export default function AnimatedTestimonialsDemo() {
         "They identify potential sponsors, negotiate partnerships, and ensure that sponsorships align with TAM’s values and goals. They plan publicity campaigns and respond to inquiries. They also make sure to drive sales.",
       name: "Pranav Boyana",
       designation: "PR & SALES MEMBER",
-      src: "https://i.ibb.co/6Jc8nhF/Boyana.jpg",
+      src: "https://i.ibb.co/mShN3N6/Boyana.jpg",
     },
     {
       quote:
