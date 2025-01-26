@@ -12,7 +12,7 @@ export default function AnimatedTestimonialsDemo() {
     },
     {
       quote:
-        "Vice Chief supports the Chief by keeping an eye on day-to-day operations and helping to implement required targets. She steps in to lead when needed and help teams stay connected, ensuring alignment with TAM's vision. ",
+        "The Vice Chief ensures smooth day-to-day operations while driving the implementation of key targets. She takes charge during critical moments, leading with precision and fostering team cohesion. By maintaining clear communication and aligning efforts with TAM’s vision, the Vice Chief strengthens collaboration and motivates teams to excel. ",
       name: "Sania",
       designation: "Vice Chief",
       src: "https://i.ibb.co/zH2tG52/Sania-TAM.jpg",
