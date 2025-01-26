@@ -5,9 +5,9 @@ import { ImagesSlider } from "@/app/Components/ui/images-slider";
 
 export default function ImagesSliderDemo() {
   const images = [
-    "https://i.ibb.co/3S6ZK9Z/IMG-3583.jpg",
-    "https://i.ibb.co/HGRx3Pr/IMG-9043.jpg",
-    "https://i.ibb.co/1rqdW8W/MG-3895.jpg",
+    "https://i.ibb.co/zZvTMjs/IMG-9043.jpg",
+    "https://i.ibb.co/sqnVtvP/MG-3895.jpg",
+    "https://i.ibb.co/GpfLK4X/IMG-3583.jpg",
   ];
   return (
     <ImagesSlider className="h-[40rem]" images={images}>
