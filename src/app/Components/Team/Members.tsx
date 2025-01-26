@@ -132,7 +132,7 @@ export default function AnimatedTestimonialsDemo() {
     {
       quote:
       "Marketing members are creative who contribute to developing and executing marketing campaigns. They work across various channels—such as digital, social media and content,—to promote events and engage with the students. Their collaborative efforts help build awareness, attract students, and support overall marketing goals.",
-      name: "Dharani",
+      name: "Dharani Reddy",
       designation: "MARKETING MEMBER",
       src: "https://i.ibb.co/qMPQBb5/Dharani.jpg",
     },

@@ -8,16 +8,16 @@ const Contact = () => {
       <div className="bg-black py-12">
         
       
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div className="max-w-7xl mx-auto px-4 sm:px-10 lg:px-8 ">
         <div className="lg:text-center">
             <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight bg-gradient-to-t from-yellow-500 via-orange-500 to-red bg-clip-text text-transparent sm:text-4xl">
                 For More Details
             </p>
             <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-            If you have questions, about our events, feel free to reach out to us.
+            If you have questions, or need more information about our events, feel free to reach out to us.
             </p>
         </div>
-
+       
         <div className="mt-10">
             <dl className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
                 <div className="flex">
