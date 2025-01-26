@@ -5,13 +5,14 @@ import { InfiniteMovingCards } from "../ui/infinite-moving-cards";
 
 export default function InfiniteMovingCardsDemo() {
   return (
-    <div className="h-[40rem] rounded-md flex flex-col antialiased bg-black dark:bg-black dark:bg-grid-white/[0.05] items-center justify-center relative overflow-hidden">
+    <div className="h-[40rem] rounded-md flex flex-col antialiased bg-black dark:bg-black dark:bg-grid-white/[0.05] items-center justify-center relative overflow-hidden" style={{fontFamily:'batmfa, sans-serif'}}>
     <h3 className='bg-clip-text text-transparent bg-gradient-to-b from-yellow-50 to-yellow-400 bg-opacity-50 font-bold md:text-[60px] sm:text-[50px] text-center xs:text-[40px] text-[30px]'>Look at what our audience got to say?</h3>
 
       <InfiniteMovingCards
         items={testimonials}
         direction="right"
         speed="slow"
+        
       />
     </div>
   );
