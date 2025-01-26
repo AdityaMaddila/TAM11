@@ -146,7 +146,7 @@ export default function EventTimeline() {
               <div className="">
                 <motion.h3
                   layoutId={`title-${card.title}-${id}`}
-                  className="font-medium text-neutral-800 dark:text-neutral-200 text-center md:text-left"
+                  className="font-bold text-neutral-800 dark:text-neutral-200 text-center md:text-left"
                 >
                   {card.title}
                 </motion.h3>
@@ -207,71 +207,131 @@ export const CloseIcon = () => {
 const cards = [
   {
     description: "Entertainment Quiz",
-    title: "Entertainment Quiz",
+    title: "ENTERTAINMENT QUIZ",
     src: "https://assets.aceternity.com/demos/lana-del-rey.jpeg",
     ctaText: "Register",
     ctaLink: "https://ui.aceternity.com/templates",
     content: () => {
       return (
         <p>
-          Lana Del Rey, an iconic American singer-songwriter, is celebrated for
-          her melancholic and cinematic music style. Born Elizabeth Woolridge
-          Grant in New York City, she has captivated audiences worldwide with
-          her haunting voice and introspective lyrics. <br /> <br /> Her songs
-          often explore themes of tragic romance, glamour, and melancholia,
-          drawing inspiration from both contemporary and vintage pop culture.
-          With a career that has seen numerous critically acclaimed albums, Lana
-          Del Rey has established herself as a unique and influential figure in
-          the music industry, earning a dedicated fan base and numerous
-          accolades.
+          The Entertainment Quiz is a fun-filled challenge that dives into the
+world of movies, music, and pop culture. Test your knowledge and
+compete with others to prove you&apos;re the ultimate entertainment
+enthusiast!
+
         </p>
       );
     },
   },
   {
-    description: "Podcast",
-    title: "Podcast",
+    description: "Youth Parliament",
+    title: "YOUTH PARLIAMENT",
     src: "https://assets.aceternity.com/demos/babbu-maan.jpeg",
     ctaText: "Register",
     ctaLink: "https://ui.aceternity.com/templates",
     content: () => {
       return (
         <p>
-          Babu Maan, a legendary Punjabi singer, is renowned for his soulful
-          voice and profound lyrics that resonate deeply with his audience. Born
-          in the village of Khant Maanpur in Punjab, India, he has become a
-          cultural icon in the Punjabi music industry. <br /> <br /> His songs
-          often reflect the struggles and triumphs of everyday life, capturing
-          the essence of Punjabi culture and traditions. With a career spanning
-          over two decades, Babu Maan has released numerous hit albums and
-          singles that have garnered him a massive fan following both in India
-          and abroad.
+         The Youth Parliament is a platform for young minds to debate, discuss,
+and deliberate on pressing global and national issues. It empowers
+participants to voice their perspectives, fostering leadership and critical
+thinking skills.
+        </p>
+      );
+    },
+  },
+  {
+    description: "Podcast",
+    title: "PODCAST",
+    src: "https://assets.aceternity.com/demos/babbu-maan.jpeg",
+    ctaText: "Register",
+    ctaLink: "https://ui.aceternity.com/templates",
+    content: () => {
+      return (
+        <p>
+         The podcast series brings insightful conversations with experts, thought
+          leaders, and influencers, covering the latest trends in technology,
+        entertainment, and culture. Tune in for discussions that spark curiosity
+and broaden perspectives
         </p>
       );
     },
   },
 
   {
-    description: "Workshop",
-    title: "Workshop",
+    description: "Bootcamp",
+    title: "DATA ANALYTICS BOOTCAMP",
     src: "https://assets.aceternity.com/demos/metallica.jpeg",
     ctaText: "Register",
     ctaLink: "https://ui.aceternity.com/templates",
     content: () => {
       return (
         <p>
-          Metallica, an iconic American heavy metal band, is renowned for their
-          powerful sound and intense performances that resonate deeply with
-          their audience. Formed in Los Angeles, California, they have become a
-          cultural icon in the heavy metal music industry. <br /> <br /> Their
-          songs often reflect themes of aggression, social issues, and personal
-          struggles, capturing the essence of the heavy metal genre. With a
-          career spanning over four decades, Metallica has released numerous hit
-          albums and singles that have garnered them a massive fan following
-          both in the United States and abroad.
+          This workshop provides an introduction to the fundamentals of data
+analytics, including data cleaning, analysis, and visualization.
+Participants will work with real-world datasets, learn to identify trends,
+and create impactful reports to support decision-making. The session is
+designed to equip attendees with practical skills for solving real-world
+problems in the data analytics domain.
+
         </p>
       );
     },
   },
+  {
+    description: "Workshop",
+    title: "NEXGEN FRONT END WORKSHOP",
+    src: "https://assets.aceternity.com/demos/metallica.jpeg",
+    ctaText: "Register",
+    ctaLink: "https://ui.aceternity.com/templates",
+    content: () => {
+      return (
+        <p>
+          The NexGen Front End Workshop is a UI/UX-focused session designed
+to equip participants with the skills to create intuitive and visually
+captivating user interfaces. This workshop covers industry-standard
+tools and techniques to craft seamless and engaging user experiences.
+        </p>
+      );
+    },
+  },
+  {
+    description: "Gaming Event",
+    title: "ESPORTS SAGA",
+    src: "https://assets.aceternity.com/demos/metallica.jpeg",
+    ctaText: "Register",
+    ctaLink: "https://ui.aceternity.com/templates",
+    content: () => {
+      return (
+        <p>
+          Esports Saga is a competitive gaming event that brings together players
+to showcase their skills in a series of popular gaming tournaments.
+Participants compete in an engaging and dynamic environment,
+celebrating the exciting world of e-sports.
+
+        </p>
+      );
+    },
+  },
+  {
+    description: "IDEATHON",
+    title: "IDEATHON",
+    src: "https://assets.aceternity.com/demos/metallica.jpeg",
+    ctaText: "Register",
+    ctaLink: "https://ui.aceternity.com/templates",
+    content: () => {
+      return (
+        <p>
+          Ideathon is an exciting inter-departmental event designed to foster
+collaboration and innovation among students from across the college.
+Participants will form groups of three or four, created randomly, and
+work together to brainstorm a unique and innovative startup idea. The
+event promotes the exchange of ideas and perspectives, encouraging
+creativity and teamwork
+        </p>
+      );
+    },
+  },
+  
   
 ];

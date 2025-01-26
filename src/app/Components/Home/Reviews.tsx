@@ -20,31 +20,43 @@ export default function InfiniteMovingCardsDemo() {
 const testimonials = [
   {
     quote:
-      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
-    name: "Charles Dickens",
-    title: "A Tale of Two Cities",
+      "The overall experience was fantastic. The quiz was super engaging with a perfect mix of movies, music, and pop culture. It felt like a fun challenge, and the energy of the hosts kept it lively throughout!",
+    name: "AJAY",
+    title: "Entertainment Quiz",
   },
   {
     quote:
-      "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take Arms against a Sea of troubles, And by opposing end them: to die, to sleep.",
-    name: "William Shakespeare",
-    title: "Hamlet",
+      "My experience at the group discussion was absolutelyincredible. I thoroughly enjoyed how like-minded individuals came together to share their ideas, creating an atmosphere of collaboration and learning.",
+    name: "SARTHAK",
+    title: "Group Discussion",
   },
   {
-    quote: "All that we see or seem is but a dream within a dream.",
-    name: "Edgar Allan Poe",
-    title: "A Dream Within a Dream",
-  },
-  {
-    quote:
-      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-    name: "Jane Austen",
-    title: "Pride and Prejudice",
+    quote: "The Youth Parliament was an incredible experience! Debating on real-world issues made me feel like I was part of something impactful and meaningful.",
+    name: "RAM",
+    title: "Youth Parliament",
   },
   {
     quote:
-      "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
-    name: "Herman Melville",
-    title: "Moby-Dick",
+      "The talk show was absolutely phenomenal! It provided a clear vision of AI’s future and actionable steps for staying ahead in the tech world. ",
+    name: "VINITHA",
+    title: "Talk Show: AI and Technical Roadmap",
+  },
+  {
+    quote:
+      "A highly interactive and well-organized session! The step-by-step guidance made React concepts easy to grasp, even for beginners.",
+    name: "NANDINI",
+    title: "Workshop: React JS",
+  },
+  {
+    quote:
+      "It was a fantastic experience! It boosted my confidence and taught me how to present my points effectively in a group setting.",
+    name: "HRISHI",
+    title: "Group Discussion",
+  },
+  {
+    quote:
+      "Loved it totally! The questions were unique and the rapid-fire session was a pure adrenaline rush. Kudos to the organizers! ",
+    name: "VAISHNAVI",
+    title: "Technical Quiz",
   },
 ];
