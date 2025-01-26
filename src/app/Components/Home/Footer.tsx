@@ -11,13 +11,13 @@ const Footer = () => {
 
 <div className="flex justify-center space-x-5">
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tamv112024@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" className='h-7 w-7 ' />
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" className='h-7 w-7 hover:scale-125' />
     </a>
     <a href="https://www.instagram.com/convergence_2k24/" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" className='h-7 w-7 ' />
+        <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" className='h-7 w-7 hover:scale-125' />
     </a>
-    <a href="https://chat.whatsapp.com/GCUgm2Swwl11tmC0KllnKF" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.ibb.co/BNSB8xd/Whatsapp-removebg-preview-2-1.png" className='h-7 w-7' />
+    <a href="https://forms.gle/AahAmRswoEduns928" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/128/2991/2991110.png" className='h-7 w-7 hover:scale-125' />
     </a>
     
 </div>
